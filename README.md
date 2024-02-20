@@ -1,0 +1,14 @@
+# barbet-user 14 UQ1A.240205.002 11224170 release-keys
+- manufacturer: google
+- platform: lito
+- codename: barbet
+- flavor: barbet-user
+- release: 14
+- id: UQ1A.240205.002
+- incremental: 11224170
+- tags: release-keys
+- fingerprint: google/barbet/barbet:14/UQ1A.240205.002/11224170:user/release-keys
+- is_ab: true
+- brand: google
+- branch: barbet-user-14-UQ1A.240205.002-11224170-release-keys
+- repo: google_barbet_dump

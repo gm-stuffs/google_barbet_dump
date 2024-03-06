@@ -1,0 +1,14 @@
+# barbet-user 14 AP1A.240305.019.A1 11445699 release-keys
+- manufacturer: google
+- platform: lito
+- codename: barbet
+- flavor: barbet-user
+- release: 14
+- id: AP1A.240305.019.A1
+- incremental: 11445699
+- tags: release-keys
+- fingerprint: google/barbet/barbet:14/AP1A.240305.019.A1/11445699:user/release-keys
+- is_ab: true
+- brand: google
+- branch: barbet-user-14-AP1A.240305.019.A1-11445699-release-keys
+- repo: google_barbet_dump
